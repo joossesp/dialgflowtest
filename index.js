@@ -34,8 +34,8 @@ var firestore= admin.firestore();
 const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-        user: 'joossesp@gmail.com',
-        pass: 'maxote182'
+        user: 'xxxxp@gmail.com',
+        pass: 'PASSHERE'
     }
 });
 
